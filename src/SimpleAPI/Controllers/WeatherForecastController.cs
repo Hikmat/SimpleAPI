@@ -31,7 +31,7 @@ namespace SimpleAPI.Controllers
         [HttpGet]
         public string GetName()
         {
-            return "Khikmat1";
+            return "Khikmat";
         }
 
         [HttpGet]
